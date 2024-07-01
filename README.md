@@ -11,7 +11,7 @@
 ## Overview of the project
 
 
-## Project: Pedictive modeling with classification
+## Project: Predictive modeling with classification
 
 ## Objective: The objective of this project is to buid predictive models using a dataset. 
 
